@@ -1,0 +1,1 @@
+# cmunz-model-salary
